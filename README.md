@@ -76,7 +76,7 @@ Developed a robust AWS-enabled data pipeline designed for real-time weather data
 AWS (S3, Lambda, Glue, EC2), Python, Apache Airflow, Pandas, Matplotlib
 
 **GitHub Repository:**  
-[https://github.com/svarshneysjsu/AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis](https://github.com/svarshneysjsu/AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis)
+[AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis](https://github.com/svarshneysjsu/AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis)
 
 ---
 
@@ -89,7 +89,7 @@ Showcased the integration of the Unitree Go2 robot with OpenAI during a summer r
 Python, OpenAI API, Robotics Integration
 
 **GitHub Repository:**  
-[https://github.com/svarshneysjsu/Go2Bot-OpenAI-Integration](https://github.com/svarshneysjsu/Go2Bot-OpenAI-Integration)
+[Go2Bot-OpenAI-Integration](https://github.com/svarshneysjsu/Go2Bot-OpenAI-Integration)
 
 ---
 
