@@ -44,7 +44,6 @@ My work bridges the gap between cutting-edge research and scalable systems—whe
 - **Cloud Platforms:** 
   - 🟧 AWS: S3, Lambda, Glue, RDS, Redshift, Step Functions  
   - 🟦 GCP: Vertex AI Workflows, Cloud Functions  
-  - 🟩 Azure: Storage & Compute
 - **MLOps & DevOps:** Docker, Git, GitHub Actions, CI/CD workflows
 
 ### 💻 Programming & Frameworks
