@@ -102,14 +102,14 @@ Developed a machine learning model to detect paraphrased sentences, improving NL
 Python, NLP, Scikit-Learn
 
 **GitHub Repository:**  
-[https://github.com/svarshneysjsu/Paraphrase-Detection](https://github.com/svarshneysjsu/Paraphrase-Detection)
+[Paraphrase-Detection-with-Quora-Question-Pairs]([https://github.com/svarshneysjsu/Paraphrase-Detection](https://github.com/svarshneysjsu/Paraphrase-Detection-with-Quora-Question-Pairs))
 
 ---
 
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [https://www.linkedin.com/in/saumyavarshney/](https://www.linkedin.com/in/saumyavarshney/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [saumya2603@gmail.com](mailto:saumya2603@gmail.com)
 
 ---
 
