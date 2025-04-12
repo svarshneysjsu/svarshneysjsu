@@ -108,7 +108,7 @@ Python, NLP, Scikit-Learn
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [https://www.linkedin.com/in/saumya-varshney/](https://www.linkedin.com/in/saumya-varshney/)
+- **LinkedIn:** [https://www.linkedin.com/in/saumyavarshney/](https://www.linkedin.com/in/saumyavarshney/)
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 ---
