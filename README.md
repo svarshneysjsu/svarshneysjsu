@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there! I'm Saumya Varshney 👋
 
 🎓 **Master's in Data Analytics** | San Jose State University  
