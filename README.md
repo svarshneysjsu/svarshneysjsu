@@ -59,9 +59,9 @@ My work bridges the gap between cutting-edge research and scalable systems—whe
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-![Saumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svarshneysjsu&show_icons=true&theme=radical)
+![Saumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=svarshneysjsu&show_icons=true&theme=radical) -->
 
 ---
 
