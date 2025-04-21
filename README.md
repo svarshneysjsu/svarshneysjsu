@@ -67,7 +67,21 @@ My work bridges the gap between cutting-edge research and scalable systems—whe
 
 ## 🚀 Featured Projects
 
-### 1. AWS-Enabled Data Pipeline for Weather Data Analysis
+### 1. Go2Bot OpenAI Integration
+
+**Description:**  
+Showcased the integration of the Unitree Go2 robot with OpenAI during a summer research project. Features voice command processing and AI-driven task execution, enhancing robotic functionalities through advanced AI models.
+
+**Technologies Used:**  
+Python, OpenAI API, Robotics Integration
+
+**GitHub Repository:**  
+[Go2Bot-OpenAI-Integration](https://github.com/svarshneysjsu/Go2Bot-OpenAI-Integration)
+
+---
+
+
+### 2. AWS-Enabled Data Pipeline for Weather Data Analysis
 
 **Description:**  
 Developed a robust AWS-enabled data pipeline designed for real-time weather data analysis. The system automates data ingestion, processing, storage, and analysis, providing actionable insights from NOAA datasets.
@@ -78,18 +92,6 @@ AWS (S3, Lambda, Glue, EC2), Python, Apache Airflow, Pandas, Matplotlib
 **GitHub Repository:**  
 [AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis](https://github.com/svarshneysjsu/AWS-Enabled-Data-Pipeline-for-Weather-Data-Analysis)
 
----
-
-### 2. Go2Bot OpenAI Integration
-
-**Description:**  
-Showcased the integration of the Unitree Go2 robot with OpenAI during a summer research project. Features voice command processing and AI-driven task execution, enhancing robotic functionalities through advanced AI models.
-
-**Technologies Used:**  
-Python, OpenAI API, Robotics Integration
-
-**GitHub Repository:**  
-[Go2Bot-OpenAI-Integration](https://github.com/svarshneysjsu/Go2Bot-OpenAI-Integration)
 
 ---
 
